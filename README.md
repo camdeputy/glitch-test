@@ -1,2 +1,2 @@
-Solution for Bootstrap Grids
+Color Challenge with Bootstrap
 =================
